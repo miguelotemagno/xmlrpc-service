@@ -1,0 +1,4 @@
+## USAGE
+
+
+java -jar xmlrpcclient.jar [ip:port] [method] '[argument]'
