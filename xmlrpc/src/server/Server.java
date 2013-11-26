@@ -9,5 +9,5 @@ package server;
  * @author miguel
  */
 public class Server {
-    
+    // DEPRECADO
 }
