@@ -86,7 +86,7 @@ public class Servicio
         StringBuffer buffer = new StringBuffer();
         String[] lst = arg.split(" ");
         String fecha = getDateTime("yyyy-MM-dd HH:mm:ss");
-        String file  = "/export/home/mvargas/conexiones/logs/"+getDateTime("yyyy-MM-dd")+".log";
+        String file  = "/tmp/XML-RPC_"+getDateTime("yyyy-MM-dd")+".log";
 
         try
         {
